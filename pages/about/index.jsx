@@ -23,25 +23,25 @@ export default function AboutPage() {
           Currently building <a href="https://kissflow.com/project" rel="norel" className="text-blue-500">Kissflow Projects.</a>
           </p>
           <p className="flex flex-wrap mt-3">
-            <Image 
+            <img 
               alt="LinkedIn"
               src="/images/linkedin.svg"
               height="30"
               width="30"
             />
-            <Image 
+            <img 
               alt="medium"
               src="/images/medium.svg"
               height="30"
               width="30"
             />
-            <Image 
+            <img 
               alt="instagram"
               src="/images/instagram.svg"
               height="30"
               width="30"
             />
-            <Image 
+            <img 
               alt="github"
               src="/images/github.svg"
               height="30"
